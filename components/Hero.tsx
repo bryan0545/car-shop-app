@@ -1,7 +1,7 @@
 "use client";
 
 import { CustomButton } from "@/components";
-import Image from 'next/image';
+import Image from "next/image";
 
 const Hero = () => {
   const handleScroll = () => {};
@@ -14,7 +14,8 @@ const Hero = () => {
         </h1>
 
         <p className="hero__subtitle">
-          Streamline your car rental experience with our effortless booking process.
+          Streamline your car rental experience with our effortless booking
+          process.
         </p>
         <CustomButton
           title="Explore Cars"
@@ -24,14 +25,9 @@ const Hero = () => {
       </div>
       <div className="hero__image-container">
         <div className="hero__image">
-          <Image
-            src="/hero.png" 
-            alt="hero"
-            fill
-            className="object-contain"
-          />
-          <div className="hero__image-overlay"/>
+          <Image src="/hero.png" alt="hero" fill className="object-contain" />
         </div>
+        <div className="hero__image-overlay" />
       </div>
     </div>
   );
