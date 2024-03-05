@@ -5,6 +5,7 @@ import Footer from './Footer';
 import CustoFilter from './CustoFilter';
 import SearchBar from './SearchBar';
 import SearchManufacturer from './SearchManufacturer';
+import CardCar from './CardCar';
 
 export {
     Hero,
@@ -13,5 +14,6 @@ export {
     Footer,
     CustoFilter,
     SearchManufacturer,
-    SearchBar
+    SearchBar,
+    CardCar
 }
