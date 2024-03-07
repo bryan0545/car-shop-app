@@ -1,4 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## About project
+
+99 cents cars is an application for renting cars. This application features the use of filters to enhance the user experience, built with Next.js, React, and Tailwind.
+
+## [Website](https://99cents-cars.vercel.app)
+
+![banerProger](https://github.com/bryan0545/car-shop-app/assets/65412386/e5647ae6-037c-41f7-824a-577573244692) 
+
+![banerProger](https://github.com/bryan0545/car-shop-app/assets/65412386/76b89370-6362-4c89-a3fb-a2191ddcb11e)
+
 
 ## Getting Started
 
