@@ -4,9 +4,9 @@
 
 ## [Website](https://99cents-cars.vercel.app)
 
-![banerProger](https://github.com/bryan0545/car-shop-app/assets/65412386/e5647ae6-037c-41f7-824a-577573244692) 
-
 ![banerProger](https://github.com/bryan0545/car-shop-app/assets/65412386/76b89370-6362-4c89-a3fb-a2191ddcb11e)
+
+![banerProger](https://github.com/bryan0545/car-shop-app/assets/65412386/e5647ae6-037c-41f7-824a-577573244692) 
 
 
 ## Getting Started
