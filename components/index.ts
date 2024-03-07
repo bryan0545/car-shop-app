@@ -2,7 +2,7 @@ import Hero from './Hero';
 import CustomButton from './CustomButton';
 import Navbar from './Navbar';
 import Footer from './Footer';
-import CustoFilter from './CustoFilter';
+import CustomFilter from './CustomFilter';
 import SearchBar from './SearchBar';
 import SearchManufacturer from './SearchManufacturer';
 import CardCar from './CardCar';
@@ -14,7 +14,7 @@ export {
     CustomButton,
     Navbar,
     Footer,
-    CustoFilter,
+    CustomFilter,
     SearchManufacturer,
     SearchBar,
     CardCar,
